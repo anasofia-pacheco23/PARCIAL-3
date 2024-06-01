@@ -1,0 +1,5 @@
+export enum Screens {
+	HOME = 'HOME',
+	ADDPRODUCTS = 'ADDPRODUCTS',
+	MODIFYPRODUCTS = 'MODIFYPRODUCTS',
+}
